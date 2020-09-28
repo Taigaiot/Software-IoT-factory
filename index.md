@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Документация для чайников
 
 You can use the [editor on GitHub](https://github.com/Taigaiot/Software/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
