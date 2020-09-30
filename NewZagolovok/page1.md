@@ -1,7 +1,7 @@
 ```
 ---
 layout: page
-title: Coursework
+title: NevZagol
 ---
 
 Text for your page goes here.
