@@ -36,8 +36,13 @@ When you create a branch off the `main` branch, you’re making a copy, or snaps
 ### To create a new branch
 
 1. Go to your new repository `hello-world`.
+
 2. Click the drop down at the top of the file list that says **branch: main**.
+
 3. Type a branch name, `readme-edits`, into the new branch text box.
+
 4. Select the blue **Create branch** box or hit “Enter” on your keyboard.
+
+   ![](Рисунок2.png)
 
 ​    
